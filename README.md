@@ -9,8 +9,6 @@
 - Savoir développer des applications backend robustes et performantes avec Go, incluant API REST, accès aux bases de données, tests et logging.
 ## Séance 1 : Introduction à Go et philosophie du langage
 
-**Durée :** 3 heures
-
 ### Objectifs pédagogiques
 
 - Comprendre le contexte de création et la philosophie du langage Go.
@@ -33,8 +31,6 @@
 
 - Packages, modules, workspace avec go.mod et commandes associées.
 ## Séance 2 : Fondamentaux du langage
-
-**Durée :** 4 heures
 
 ### Objectifs pédagogiques
 
@@ -61,8 +57,6 @@
 - Manipulation, dimensionnement, allocation, pièges et optimisations.
 ## Séance 3 : Programmation orientée structure en Go
 
-**Durée :** 4 heures
-
 ### Objectifs pédagogiques
 
 - Comprendre l'usage des structs et méthodes associées.
@@ -88,8 +82,6 @@
 
 - Absence de classes, penser en termes de comportements et interfaces.
 ## Séance 4 : Concurrence en Go
-
-**Durée :** 4 heures
 
 ### Objectifs pédagogiques
 
@@ -120,8 +112,6 @@
 
 - Annulation, timeout, propagation dans services.
 ## Séance 5 : Développement backend et exposition de services
-
-**Durée :** 3 heures
 
 ### Objectifs pédagogiques
 
