@@ -102,12 +102,12 @@ Ce simple exemple illustre la proximité de Go avec la simplicité d’écriture
 
 ```mermaid
 graph TD
-    A[Go] -->|Performance moyenne| B[Fast (C, Rust)]
-    A -->|Simplicité| C[Easy (Python)]
+    A[Go] -->|Performance moyenne| B["Fast (C, Rust)"]
+    A -->|Simplicité| C["Easy (Python)"]
     B -->|Contrôle bas niveau mais complexe| D[Memory Safety ?]
     C -->|Productivité| E[Rapid Dev]
     A -->|Concurrency model| F[goroutines + channels]
-    B -->|Ownership (Rust) ou manuel (C)| D
+    B -->|"Ownership (Rust) ou manuel (C)"| D
     F -->|Lightweight concurrency| G[Better than Java threads]
 ```
 
